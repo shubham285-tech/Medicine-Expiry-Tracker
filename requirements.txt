@@ -1,0 +1,8 @@
+# Medical Expiry Tracker 3D - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+Flask>=3.0.0
+Werkzeug>=3.0.0
+
+# Firebase (only needed for cloud/Vercel deployment, not for local SQLite)
+# firebase-admin>=6.5.0
